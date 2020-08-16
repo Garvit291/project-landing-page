@@ -1,33 +1,31 @@
 {
   "files": {
-    "main.css": "/project-landing-page/static/css/main.2e7fdf9c.chunk.css",
-    "main.js": "/project-landing-page/static/js/main.16d01948.chunk.js",
-    "main.js.map": "/project-landing-page/static/js/main.16d01948.chunk.js.map",
+    "main.css": "/project-landing-page/static/css/main.9487d832.chunk.css",
+    "main.js": "/project-landing-page/static/js/main.e9a77d6f.chunk.js",
+    "main.js.map": "/project-landing-page/static/js/main.e9a77d6f.chunk.js.map",
     "runtime-main.js": "/project-landing-page/static/js/runtime-main.fe71644e.js",
     "runtime-main.js.map": "/project-landing-page/static/js/runtime-main.fe71644e.js.map",
-    "static/js/2.a75be3f9.chunk.js": "/project-landing-page/static/js/2.a75be3f9.chunk.js",
-    "static/js/2.a75be3f9.chunk.js.map": "/project-landing-page/static/js/2.a75be3f9.chunk.js.map",
+    "static/js/2.c0875b98.chunk.js": "/project-landing-page/static/js/2.c0875b98.chunk.js",
+    "static/js/2.c0875b98.chunk.js.map": "/project-landing-page/static/js/2.c0875b98.chunk.js.map",
     "index.html": "/project-landing-page/index.html",
-    "precache-manifest.5e0e4cac709ed99a737e3fc0e4ffe7dc.js": "/project-landing-page/precache-manifest.5e0e4cac709ed99a737e3fc0e4ffe7dc.js",
+    "precache-manifest.1d7cff83ff97aee61122374732a37cbb.js": "/project-landing-page/precache-manifest.1d7cff83ff97aee61122374732a37cbb.js",
     "service-worker.js": "/project-landing-page/service-worker.js",
-    "static/css/main.2e7fdf9c.chunk.css.map": "/project-landing-page/static/css/main.2e7fdf9c.chunk.css.map",
-    "static/js/2.a75be3f9.chunk.js.LICENSE.txt": "/project-landing-page/static/js/2.a75be3f9.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/project-landing-page/static/media/1.314aee4f.jpg",
-    "static/media/10.jpg": "/project-landing-page/static/media/10.134a983e.jpg",
-    "static/media/11.jpg": "/project-landing-page/static/media/11.04eb8720.jpg",
-    "static/media/2.jpg": "/project-landing-page/static/media/2.c8a03b11.jpg",
-    "static/media/3.jpg": "/project-landing-page/static/media/3.a26a5467.jpg",
-    "static/media/4.jpg": "/project-landing-page/static/media/4.c94fcfd4.jpg",
-    "static/media/5.jpg": "/project-landing-page/static/media/5.f747c75f.jpg",
-    "static/media/6.jpg": "/project-landing-page/static/media/6.0f524451.jpg",
-    "static/media/7.jpg": "/project-landing-page/static/media/7.c36d5ce5.jpg",
-    "static/media/8.jpg": "/project-landing-page/static/media/8.7ee630da.jpg",
-    "static/media/9.jpg": "/project-landing-page/static/media/9.dad13688.jpg"
+    "static/css/main.9487d832.chunk.css.map": "/project-landing-page/static/css/main.9487d832.chunk.css.map",
+    "static/js/2.c0875b98.chunk.js.LICENSE.txt": "/project-landing-page/static/js/2.c0875b98.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/project-landing-page/static/media/1.e758b705.png",
+    "static/media/2.png": "/project-landing-page/static/media/2.d0404afb.png",
+    "static/media/3.png": "/project-landing-page/static/media/3.158b9194.png",
+    "static/media/4.png": "/project-landing-page/static/media/4.a5f8a6a0.png",
+    "static/media/5.png": "/project-landing-page/static/media/5.9817a24c.png",
+    "static/media/6.png": "/project-landing-page/static/media/6.49300e34.png",
+    "static/media/7.png": "/project-landing-page/static/media/7.7c2cba0f.png",
+    "static/media/8.png": "/project-landing-page/static/media/8.eaaa313a.png",
+    "static/media/9.png": "/project-landing-page/static/media/9.5f25c6f5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fe71644e.js",
-    "static/js/2.a75be3f9.chunk.js",
-    "static/css/main.2e7fdf9c.chunk.css",
-    "static/js/main.16d01948.chunk.js"
+    "static/js/2.c0875b98.chunk.js",
+    "static/css/main.9487d832.chunk.css",
+    "static/js/main.e9a77d6f.chunk.js"
   ]
 }
